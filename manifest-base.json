@@ -1,6 +1,6 @@
 {
-    "name": "Em-dash Counter",
-    "description": "Small badge to count the number of emdashes on a webpage",
+    "name": "Em Dash Counter",
+    "description": "Small badge to count the number of em dashes on a webpage",
     "version": "1.0",
     "manifest_version": 3,
     "icons": {
