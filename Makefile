@@ -21,5 +21,7 @@ firefox.zip:
 clean:
 	rm -rf build-chrome
 	rm -rf build-firefox
-	rm chrome.zip
-	rm firefox.zip
+	rm -f chrome.zip
+	rm -f firefox.zip
+
+.PHONY: all clean

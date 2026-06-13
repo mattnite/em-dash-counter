@@ -1,5 +1,10 @@
 {
     "background": {
         "scripts": ["background.js"]
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "em-dash-counter@em-dash-counter"
+        }
     }
 }
