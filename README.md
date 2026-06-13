@@ -1,4 +1,4 @@
 # Em Dash Counter
 
-A browser extension that counts the number of em dashes on the page you're
-viewing in the badge.
+A browser extension that counts the number of em dashes in the page you're
+viewing.
